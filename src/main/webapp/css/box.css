@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+#b1{
+	border: 5px solid lightgreen;
+    width:100px;	
+	height: 100px;
+}
+
+#b2{
+	border: 10px dotted lightsalmon;
+	width:150px;
+	height: 150px;
+}
+
+#b3{
+	border: 10px dashed lightblue;
+	width: 200 px;
+	height: 200px;
+	border-radius: 50px 50px;
+	
+}
