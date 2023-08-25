@@ -5,6 +5,10 @@
 <head>
 <meta charset="UTF-8">
 <title>externalcss</title>
+
+
+<!--rel속성을 사용하여 외장파일로 속성을 적용함.   -->
+
 <link rel="stylesheet" href="css/box.css">
 </head>
 

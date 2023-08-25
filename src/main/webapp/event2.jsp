@@ -36,7 +36,7 @@
 <script type="text/javascript">
 
 // 보통은 헤드태그에 스크립트태그를 두는데, 그러면 위의 문제가 다시 발생한다. 
-//해결방법은 2_1
+//해결방법은 2_2
 
  btn.onclick = function(){
 	 console.log('onclick..'+Math.random())
